@@ -1,0 +1,18 @@
+.navigation{
+  display: flex;
+  gap: 30px;
+  margin: 0 40px;
+}
+.navigation a{
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 26px;
+  color: #F6F8FC;
+  text-decoration: none;
+}
+.navigation .active {
+  color: #FFCA42;
+}
+

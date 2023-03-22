@@ -1,0 +1,28 @@
+.header {
+  max-width: 1300px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Inter";
+}
+
+.logo {
+  gap: 1.9rem;
+}
+
+.nav_and_btn {
+  gap: 8vw;
+}
+
+.header,
+.logo,
+.nav_and_btn {
+  align-items: center;
+  display: flex;
+}
+.info {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}

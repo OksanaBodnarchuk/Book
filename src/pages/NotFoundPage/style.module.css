@@ -1,0 +1,18 @@
+.error {
+    display: flex;
+    padding: 2% 10%;
+    background: rgba(27, 55, 100, 1);
+  }
+  
+  .error_title {
+    font-family: "Cardo";
+    font-size: 10vw;
+    color: #b4c7e7;
+  }
+  
+  .error_descr {
+    
+    font-family: "Inter";
+    font-size: 25vw;
+    color: #FFCA42;
+  }
